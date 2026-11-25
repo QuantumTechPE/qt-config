@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # CI de qt-config (cada PR): orden de promoción, estructura, formato, render con
 # el deploy/ real de cada microservicio y Gitleaks. Check requerido: "CI / Gate".
 name: CI
