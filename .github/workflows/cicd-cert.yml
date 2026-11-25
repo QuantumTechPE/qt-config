@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # CICD CERT · merge en develop → el clúster cert toma cert/<servicio>-cert.yaml:
 # secretos declarados → Vault, config.yaml → qt-gitops, Argo CD Synced + Healthy.
 name: CICD CERT

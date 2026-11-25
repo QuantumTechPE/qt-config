@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # Disparador liviano del gobierno de merges (sin permisos ni secretos).
 # Su única función es activar governance.yml, que corre con el código de master.
 name: Auto · Gobierno (evento)

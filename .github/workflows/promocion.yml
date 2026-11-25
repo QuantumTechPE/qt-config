@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # Auto · Promoción · tras cada merge abre o actualiza el PR hacia la rama
 # siguiente: pre-develop → develop (cert) → master (prod).
 name: Auto · Promoción

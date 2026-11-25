@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # CICD DEV · merge en pre-develop → el clúster dev toma dev/<servicio>-dev.yaml:
 # secretos declarados → Vault, config.yaml → qt-gitops, Argo CD Synced + Healthy.
 name: CICD DEV
