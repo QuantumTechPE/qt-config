@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # CICD PROD · merge en master → el clúster prod toma prod/<servicio>-prod.yaml:
 # secretos declarados → Vault, config.yaml → qt-gitops, Argo CD Synced + Healthy.
 name: CICD PROD

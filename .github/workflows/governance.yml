@@ -1,3 +1,4 @@
+# Plantilla: QuantumTechPE/qt-infra templates/config (repo de configuración por ambiente)
 # Gobierno de merges: aprobación de un admin → auto-merge.
 # Corre con el código de master (workflow_run); publica el status requerido
 # "governance/admin-approvals" con la GitHub App de plataforma.
