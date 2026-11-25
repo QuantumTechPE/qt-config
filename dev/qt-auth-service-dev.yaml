@@ -11,6 +11,8 @@
 env:
   # Heap de la JVM = 75 % del límite de memoria del pod
   JAVA_MAX_MEM_RATIO: "75"
+  # Logs y fechas del servidor en hora de Lima
+  TZ: America/Lima
 
 files:
   # Sobrescribe src/main/resources/application.properties en el clúster dev.
